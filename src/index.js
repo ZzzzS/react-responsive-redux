@@ -7,3 +7,4 @@ export { MediaQueryWrapper, responsiveWrapper, PhoneScreen, TabletScreen,
   LgScreen, XsScreenHidden, SmScreenHidden, MdScreenHidden, LgScreenHidden } from './components'
 export { breakPoints, defaultSizes } from './defaults'
 export { mobileParser } from './parser'
+export { Responsive } from './responsive'
